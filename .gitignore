@@ -44,6 +44,9 @@ SourceArt/**/*.tga
 # Binary Files
 Binaries/*
 
+#android builds
+Android/*
+
 # Builds
 Build/*
 
@@ -66,5 +69,8 @@ DerivedDataCache/*
 *.swp
 *.swo
 .ctrlp_cache/
+
+#Photoshop resources folder
+PSD/*
 
 #Giignore file from https://github.com/samsheff/UE4-Gitignore/blob/master/UE4.gitignore
